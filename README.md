@@ -1,6 +1,7 @@
 
 # README pour le projet de mise à jour du site web de la chaîne de restaurants "Beldi"
 #  Contexte du Projet
+accéder au site : https://sara-boulahia32.github.io/beldi2/
 
 # 🚀 Objectifs
 Créer des maquettes pour les pages principales :
